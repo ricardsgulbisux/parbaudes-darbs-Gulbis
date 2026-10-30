@@ -2,7 +2,7 @@ J1: Pieeja pirms koda
 Tev iedod žurnālfailu ar 1200 rindām un jautā, kurā diennakts stundā kļūdu ir visvairāk.
 Apraksti savu rīcību soli pa solim. Kodu rakstīt nevajag.
 
-@1. Atvērtu failu ar teksa redaktorā, kur ir , piemēram, Olivers.
+@1. Atvērtu failu ar teksa redaktorā, kur ir Olivers.
  2. Izmantotu meklēšanas rīku un uzraksītu "ERROR"
  3. No izlasītājam rindam izmantotu filtrēšanas rīku.
 
