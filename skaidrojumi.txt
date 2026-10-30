@@ -2,13 +2,15 @@ J1: Pieeja pirms koda
 Tev iedod žurnālfailu ar 1200 rindām un jautā, kurā diennakts stundā kļūdu ir visvairāk.
 Apraksti savu rīcību soli pa solim. Kodu rakstīt nevajag.
 
-@1. Atvērtu failu ar teksa redaktorā, kur ir "Olivers".
- 2. Izmantotu meklēšanas rīku un uzraksītu "ERROR"
- 3. No izlasītājam rindam izmantotu filtrēšanas rīku.
+Atb:
+1. Atvērtu failu ar teksa redaktorā, kur ir "Olivers".
+2. Izmantotu meklēšanas rīku un uzraksītu "ERROR"
+3. No izlasītājam rindam izmantotu filtrēšanas rīku.
 
 J2: Objekti, nevis teksts
 PowerShell pa konveijeru nodod objektus, Bash nodod tekstu. Tev jāatlasa procesi, kas
 lieto vairāk par 200 MB atmiņas. Nosauc vienu praktisku ieguvumu, ko šajā uzdevumā
 dod objekti.
 
-@ Es powershell jau izvēlēto konkrētuo objektu izmantojot "where WS -gt 200MB". Ja būtu bash izmantotu filtru, kurš iet cauri visiem izvades lielajiem stringam.
+Atb:
+Es powershell jau izvēlēto konkrētuo objektu izmantojot "where WS -gt 200MB". Ja būtu bash izmantotu filtru, kurš iet cauri visiem izvades lielajiem stringam.
